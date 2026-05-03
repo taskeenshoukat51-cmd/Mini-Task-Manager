@@ -1,5 +1,4 @@
 
-# Mini-task-manager
 # Mini Task Manager
 Real-time OS task manager simulation with 
 process listing, suspension, resumption 
