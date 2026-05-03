@@ -163,6 +163,6 @@ g++ task_manager.cpp -o task_manager -lpsapi
 ---
 
 ## Contact
-Wajeeha Attiq  
-GitHub: github.com/wajeehaattiq  
-Email: wajeehaattiq7@gmail.com 
+Taskeen Shoukat  
+GitHub: github.com/taskeenshoukat51-cmd 
+Email: taskeenshoukat23@gmail.com 
